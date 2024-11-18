@@ -8,9 +8,9 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Apoorv Saxena"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "  Apoorv Saxena"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -21,18 +21,18 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "profile.jpg"
+  name             : "Apoorv Saxena"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Specialist Engineer"
+  location         : "Taipei"
+  employer         : "Advantech"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "apoorvasaxenasrps999@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "https://scholar.google.com/citations?user=_j0xrLwAAAAJ&hl=zh-TW&authuser=2"
   impactstory      : # URL
   orcid            : "http://orcid.org/yourorcidurl"
   semantic         : # URL
@@ -58,9 +58,9 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/saxenaapoorv1/"
   mastodon         : # URL
-  medium           : # URL
+  medium           : "https://medium.com/@apoorvasaxenasrps999"
   pinterest        : # Username
   soundcloud       : # Username
   steam            : # Username
